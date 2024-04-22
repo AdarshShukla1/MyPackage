@@ -1,0 +1,26 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "My first package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdarshShukla1/MyPackage.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Adarsh Shukla",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AdarshShukla1/MyPackage/issues"
+  },
+  "homepage": "https://github.com/AdarshShukla1/MyPackage#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
